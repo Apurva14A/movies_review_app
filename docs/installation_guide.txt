@@ -1,0 +1,15 @@
+I have used virtual environment for this project.
+Please use below commands :
+
+python3 -m venv venv
+
+source venv/bin/activate
+
+Install Django using pip3 or python3:
+
+python3 install django
+or
+pip3 install django
+
+
+
